@@ -23,7 +23,7 @@ services:
     build:
       context: .
       dockerfile: ./compose/local/app/Dockerfile
-    image: base_aws_bot_bot
+    image: invoice-app
     volumes:
       - .:/app
     env_file:

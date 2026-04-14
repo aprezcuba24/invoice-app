@@ -1,4 +1,4 @@
-service: base-aws-bot-bot
+service: invoice-app
 frameworkVersion: '3'
 
 provider:
